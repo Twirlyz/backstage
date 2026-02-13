@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "my-demo-app"
   annotations:
-    github.com/project-slug: twirlyz/my-demo-app
+    github.com/project-slug: twirlyz/backstage
     github.com/user: 'twirlyz'
 spec:
   type: service
