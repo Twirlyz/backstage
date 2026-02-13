@@ -4,6 +4,7 @@ metadata:
   name: "my-demo-app"
   annotations:
     github.com/project-slug: twirlyz/my-demo-app
+    github.com/user: 'twirlyz'
 spec:
   type: service
   owner: user:twirlyz
